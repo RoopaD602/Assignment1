@@ -1,0 +1,27 @@
+button{
+  width:100px;
+  font-size:20px;
+ margin: 0px 20px ;
+  
+}
+#demo
+{
+  display: flex;
+  justify-content: center;
+}
+h1
+{
+  text-align:center;
+}
+
+
+#remove
+{
+  margin:10px;
+}
+i{
+  font-size:20px;
+}
+*{
+  background: rgb(197, 197, 197);
+}
